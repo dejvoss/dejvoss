@@ -25,9 +25,9 @@
 <hr>
 <h2>List of my early projects:</h2>
 
-[Web development knowledge library](https://dejvoss.github.io/web_dev_links_library/index.html) - A curated collection of links to articles, tutorials, and resources. It covers a wide spectrum from Front End and Back End, to Deployment & Version Control. Whether you're a seasoned developer or just starting out in web development, this resource hub provides quik access to essential tools and technologies to help you master your craft. [GitHub Repo(for tech)](https://github.com/dejvoss/web_dev_links_library)
+[Web development knowledge library](https://dejvoss.github.io/web_dev_links_library/index.html) - A curated collection of links to articles, tutorials, and resources. It covers a wide spectrum from Front End and Back End, to Deployment & Version Control. Whether you're a seasoned developer or just starting out in web development, this resource hub provides quick access to essential tools and technologies to help you master your craft. [GitHub Repo(for tech)](https://github.com/dejvoss/web_dev_links_library)
 
-[Timers Mania](https://dejvoss.github.io/js-multiple-timer/) - JavaScipt application allow users to create as many as want timers with provided number of seconds. [GitHub Repo](https://github.com/dejvoss/js-multiple-timer)
+[Timers Mania](https://dejvoss.github.io/js-multiple-timer/) - JavaScipt application allows users to create as many as want timers with the provided number of seconds. [GitHub Repo](https://github.com/dejvoss/js-multiple-timer)
 
 [Physical Therapy Clinic Website](https://dejvoss.github.io/cs_msp1_rehab_clinic_refactored/) - Website for a physiotherapy clinic - My first milestone project done during studying web development. [GitHub Repo](https://github.com/dejvoss/cs_msp1_rehab_clinic_refactored)
 
