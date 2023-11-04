@@ -32,3 +32,5 @@
 [Physical Therapy Clinic Website](https://dejvoss.github.io/cs_msp1_rehab_clinic_refactored/) - Website for a physiotherapy clinic - My first milestone project done during studying web development. [GitHub Repo](https://github.com/dejvoss/cs_msp1_rehab_clinic_refactored)
 
 [Whiskey Online Store](https://dejvoss.github.io/cs_whiskey_drop/) - another project done during learning web development. Great landing page for the online Whiskey Store. [GitHub Repo](https://github.com/dejvoss/cs_whiskey_drop/blob/master/README.md)
+
+[Weather Station App](https://dejvoss.github.io/js-weather-api/) - JavaScript project which uses API to get weather and place based on the user localization. As there is no way to hide API keys in JavaScript project has also a backend built in Python Flask as an API proxy. [Github Repo](https://github.com/dejvoss/js-weather-api)
