@@ -2,7 +2,7 @@
 
 <p align="center">You've landed :foot: on my GitHub welcome page.</p>
 <p align="center">I am De. Os. :man:</p>
-<p algin="center">I specialize in a range of tech domains, blending data engineering with web development and business analytics. Here's a brief overview:</p>
+<p algin="center">I specialize in a range of tech domains, blending data engineering with software web development and business analytics.</p>
 
 🌐 Web Development: Created websites for different purposes and business-oriented web applications.
 
@@ -16,7 +16,7 @@
 
 🏠 Personal Interests: In my free time, I set up web servers and databases on Linux, and dip my toes into cybersecurity and machine learning.
 
-✈️ Travel Enthusiast: Passionate about discovering new cultures and flavors. Travel not only fuels my creativity but also broadens my perspective, making me more open to different ways of thinking.
+✈️ Travel Enthusiast: Passionate about discovering new cultures and flavours. Travel not only fuels my creativity but also broadens my perspective, making me more open to different ways of thinking.
 
 🚴‍♂️ Outdoor and Sports Activities: Find balance and energy through long walks and bike rides in the great outdoors. Always up for trying new activities, as I believe in a flexible, open-minded approach to life and challenges.
 
