@@ -2,7 +2,7 @@
 
 <p align="center">You've landed :foot: on my GitHub welcome page.</p>
 <p align="center">I am De. Os. :man:</p>
-<p algin="center">I specialize in a range of tech domains, blending data engineering with software web development and business analytics.</p>
+<p algin="center">I am a tech enthusiast with a passion that spans various domains within the technology field. My expertise lies in seamlessly integrating data engineering, software web development, and business analytics.</p>
 
 🌐 Web Development: Created websites for different purposes and business-oriented web applications.
 
